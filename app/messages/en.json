@@ -1,0 +1,344 @@
+{
+    "Navbar": {
+        "title": "Dr / Hamouda Mohammed",
+        "home": "Home",
+        "about": "About",
+        "scholarlyAchievements": "Scholarly Achievements",
+        "academicJourney": "Academic Journey",
+        "more": "More",
+        "educationalVideos": "Educational Videos",
+        "supervision": "Supervision",
+        "switchToArabic": "Switch to Arabic",
+        "switchToEnglish": "Switch to English"
+    },
+    "Footer": {
+        "about": {
+            "title": "About",
+            "description": "Associate Professor & Dean of Faculty of Technological Industry and Energy, Tiabah Technological University."
+        },
+        "quickLinks": {
+            "title": "Quick Links",
+            "home": "Home",
+            "aboutMe": "About Me",
+            "scholarlyAchievements": "Scholarly Achievements",
+            "contact": "Contact"
+        },
+        "achievements": {
+            "title": "Achievements",
+            "phd": "PhD from Jeonbuk National University",
+            "fulbright": "Fulbright Scholar at MIT",
+            "award": "Egyptian State Award Winner",
+            "certifications": "Multiple Certifications"
+        },
+        "connect": {
+            "title": "Connect",
+            "description": "Follow me on social media for the latest updates and research."
+        },
+        "copyright": {
+            "year": "© {year}",
+            "name": "Dr / Hamouda Mohammed",
+            "rights": "All rights reserved. Built with passion for academic excellence."
+        }
+    },
+    "Home": {
+        "name": "Hamouda Mohammed",
+        "im": "I'm",
+        "typed": {
+            "0": "Mechanical Engineer",
+            "1": "Associate Professor",
+            "2": "Ph.D"
+        }
+    },
+    "About": {
+        "title": "Dr / Hamouda Mohammed",
+        "subtitle": "Mechanical Engineer",
+        "description": "Experienced Associate Professor and dean of Faculty of Technological Industry and Energy, Tiabah Technological University. I have experience in Materials Science, Medical Devices, Biomaterials, Research, and Design. Strong education professional with a Fulbright Visiting Scholar focused in Bioengineering and Biomedical Engineering from Texas A&M University and MIT. Awarded SVU encourage award 2017 in engineering and Egyptian state Encourage award for engineering science for the year 2020.",
+        "position": "Associate Professor & Dean of Faculty of Technological Industry and Energy",
+        "positionDescription": "With a strong academic foundation and years of practical experience, I strive to lead impactful research and deliver high-quality education to future engineers.",
+        "birthday": "Birthday:",
+        "email": "Email:",
+        "city": "City:",
+        "researcherId": "Researcher ID:",
+        "orcidId": "ORCID ID:",
+        "work": "Work:",
+        "positionLabel": "Position:",
+        "workAvailable": "Available",
+        "positionValue": "Dean & Associate Professor",
+        "finalDescription": "I bring a deep commitment to advancing technological education and research, with a focus on fostering innovation, sustainability, and collaboration across disciplines. My leadership roles have allowed me to build impactful programs and inspire the next generation of engineers.",
+        "birthdayValue": "February 1985",
+        "cityValue": "Qena, Egypt"
+    },
+    "AcademicJourney": {
+        "title": "Academic Journey",
+        "description": "Explore the journey of academic excellence through a showcase of esteemed universities, institutes, and conferences. This portfolio reflects a legacy of contributions to mechanical engineering and doctoral research.",
+        "learnMore": "Learn more",
+        "close": "Close",
+        "items": {
+            "mit": {
+                "title": "Massachusetts Institute of Technology",
+                "description": "Fulbright scholar 2019-2020 Fulbright Egyptian Scholar Program – Post-doctoral Research Grants Department of Mechanical Engineering , Online Training on Advanced Laboratory Safety, research ethics, Biosafety, Shop and Chemical Safety, etc."
+            },
+            "naqaae": {
+                "title": "NAQAAE",
+                "description": "2023-till now External Reviewer for Faculties and Institutes of Higher Education ."
+            },
+            "ksu": {
+                "title": "King Saud University",
+                "description": "2009–2012: Training in Metrology Labs using high-tech accuracy instruments at KSU. Involved in teaching Metrology Laboratory, Design of Manufacturing Systems tutorial, Welding Laboratory, Casting Laboratory, and Sheet Metal Laboratory.\n\n17–18 January 2010: Certification from Taylor Hobson Precision Center, England — Training on measuring surface finish and contour using Form Talysurf i120 3D measuring instrument with advanced software.\n\n20–24 January 2010: Certification from Taylor Hobson Precision Center, England — Training on measuring surface finish using the CCI 6000 measuring instrument with advanced software and NANO accuracy.\n\n10 March 2010: Certification from Spectrum Metrology Ltd Precision Center, England — Training on measuring angle, alignment, flatness, parallelism, squareness, and straightness using Micro Alignment Telescope System, Talyvel 5, Electro-Optics Analysis Software, and CCD System.\n\n1–4 March 2010: Attended the First Scientific Students Conference of the Higher Education Ministry.\n\n11 May 2010: Participated in the workshop \"Role of Manufacturing Technology to Support the Industry of Spare Parts.\"\n\nMay 2010: Certification for attending the Six Sigma Green Belt course at King Saud University."
+            },
+            "astr": {
+                "title": "Academy of Scientific and Technological Research",
+                "description": "Egyptian state encouragement award for engineering science 2020. ,Excellence prize for project title \"Fabrication of 3D printer using reverse engineering\" in 4th international Cairo innovation forum."
+            },
+            "gifted": {
+                "title": "Gifted and Talented Care Center",
+                "description": "From 2023-till now Director of center of gifted and talented students Thebes Technological University, Luxor, Egypt"
+            },
+            "assiut": {
+                "title": "Assiut University",
+                "description": "2002-2007 B.Sc Mechanical Engineering department, Faculty of Engineering (Very good grade with 79.89 %). Assiut university, Assiut, Egypt. 2007 Certificate for superior student in bachelor student's symposium. Assuit University, Egypt. December 2006 Participate with a great affair in the 4th international conference for mechanical engineering and advanced technology for industrial production."
+            },
+            "jeonbuk": {
+                "title": "Jeonbuk National University",
+                "description": "March 2014- August 2016 PhD Division of Mechanical Engineering, Department of Biosystem Engineering, Colleges of Engineering, (with GPA 4.0 out 4.0) (Supervisor Prof. Cheol Sang Kim)."
+            },
+            "texas": {
+                "title": "Texas A&M University",
+                "description": "Principal candidate for the 2017 Fulbright Egyptian Junior Faculty Development Program and Summer 2017 Training modules on Advanced Laboratory Safety, research ethics, Biosafety Level 1 Training, Safety for Office & General Work Areas, Research Lab, Shop and Chemical Safety, TEES Hazardous Waste Disposal, and TEES Shop & Tool Safety Course.."
+            },
+            "fulbright": {
+                "title": "FULBRIGHT Egypt",
+                "description": "Principal candidate for the 2017 Fulbright Egyptian Junior Faculty Development Program,Principal candidate for the 2019/2020 Fulbright Egyptian scholar program – post-doctoral research grants (10 months)."
+            }
+        }
+    },
+    "ScholarlyAchievements": {
+        "education": "Education",
+        "postdoctoral": "Postdoctoral Training",
+        "certifications": "Certifications",
+        "professionalExperience": "Professional Experience",
+        "honors": "Honors and Awards",
+        "editorial": "Editorial Activities",
+        "phd": "PhD",
+        "msc": "M.Sc",
+        "bsc": "B.Sc",
+        "gpa": "GPA",
+        "supervisor": "Supervisor",
+        "grade": "Grade",
+        "present": "Present",
+        "totalStudents": "Total Students",
+        "phdStudents": "Ph.D Students",
+        "mastersStudents": "Master's Students",
+        "academicEditor": "Academic Editor",
+        "editorialBoard": "Editorial Board",
+        "items": {
+            "education": {
+                "phd": {
+                    "period": "March 2014 - August 2016",
+                    "university": "Jeonbuk National University, South Korea",
+                    "gpa": "GPA: 4.0/4.0 (Supervisor: Prof. Cheol Sang Kim)"
+                },
+                "msc": {
+                    "period": "2009-2012",
+                    "university": "King Saud University, Riyadh, Saudi Arabia",
+                    "gpa": "GPA: 3.97/5.0"
+                },
+                "bsc": {
+                    "period": "2002-2007",
+                    "university": "Assuit University, Egypt",
+                    "grade": "Grade: Very Good (79.89%)"
+                }
+            },
+            "postdoctoral": {
+                "fulbright1": {
+                    "title": "Fulbright Scholar",
+                    "period": "2019-2020",
+                    "university": "Massachusetts Institute of Technology (MIT), USA",
+                    "supervisor": "Supervisor: Prof. Ellen Roche"
+                },
+                "fulbright2": {
+                    "title": "Fulbright Visiting Scholar",
+                    "period": "Summer 2017",
+                    "university": "Texas A&M University, USA",
+                    "supervisor": "Supervisor: Prof. Anthony Guiseppi-Elie"
+                },
+                "visiting": {
+                    "title": "Visiting Researcher",
+                    "period": "2014",
+                    "university": "Kangwon National University, South Korea",
+                    "supervisor": "Supervisor: Prof. Heung M. Woo"
+                }
+            },
+            "certifications": {
+                "iso": {
+                    "title": "ISO56002 Innovation",
+                    "year": "2022"
+                },
+                "sixsigma": {
+                    "title": "Six Sigma Green Belt",
+                    "year": "2010"
+                },
+                "safety": {
+                    "title": "Safety & Research Ethics",
+                    "institution": "Multiple Institutions"
+                }
+            },
+            "experience": {
+                "teamLeader": {
+                    "title": "Team Leader",
+                    "period": "2024",
+                    "location": "Thebes Technological University, Egypt"
+                },
+                "reviewer": {
+                    "title": "External Reviewer",
+                    "period": "2023-Present",
+                    "location": "NAQAAE, Egypt"
+                },
+                "director": {
+                    "title": "Director",
+                    "period": "2023-Present",
+                    "location": "Center of Gifted Students"
+                },
+                "labHead": {
+                    "title": "Director & Lab Head",
+                    "period": "2016-Present",
+                    "location": "Bioengineering Lab, South Valley University"
+                }
+            },
+            "honors": {
+                "stateAward": {
+                    "title": "Egyptian State Award",
+                    "description": "2021 - Academy of Scientific Research"
+                },
+                "fulbright": {
+                    "title": "Fulbright Scholar",
+                    "description": "2019 - MIT, USA"
+                },
+                "excellence": {
+                    "title": "Research Excellence",
+                    "description": "2018 - South Valley University"
+                },
+                "prize": {
+                    "title": "Excellence Prize",
+                    "description": "2017 - 4th Cairo Innovation Forum"
+                }
+            },
+            "editorial": {
+                "editor": {
+                    "title": "Academic Editor",
+                    "journal": "International Journal of Polymer Science",
+                    "year": "2024"
+                },
+                "board": {
+                    "title": "Editorial Board",
+                    "journal": "Journal of Innovations in Engineering Education",
+                    "year": "2020"
+                }
+            }
+        }
+    },
+    "EducationalVideos": {
+        "title": "Educational Videos",
+        "subtitle": "Curated media highlights and project showcases",
+        "tvInterview": {
+            "title": "Tv Interview",
+            "subtitle": "مقابلة تلفزيونية القناة الأولى",
+            "watch": "Open on YouTube"
+        },
+        "electricGolfCart": {
+            "title": "Electric golf cart",
+            "subtitle": "Selected clips from Dr. Hamouda's project (3 parts)",
+            "part1": "Electric golf cart — Part 1",
+            "part2": "Electric golf cart — Part 2",
+            "part3": "Electric golf cart — Part 3"
+        },
+        "channel": {
+            "title": "Explore Dr. Hamouda's YouTube Channel",
+            "description": "Valuable and varied lectures — organized playlists covering multiple topics.",
+            "viewVideos": "View videos",
+            "visitChannel": "Visit Channel"
+        },
+        "watch": "Watch"
+    },
+    "Supervision": {
+        "title": "Student Supervision",
+        "subtitle": "Research projects and dissertations supervised by Dr. Hamouda Mohammed",
+        "phdStudents": "Ph.D Students",
+        "mastersStudents": "Master's Students",
+        "totalStudents": "Total Students",
+        "phdCount": "Ph.D Students",
+        "mastersCount": "Master's Students",
+        "degrees": {
+            "phd": "Ph.D",
+            "msc": "M.Sc",
+            "msc_dot": "M.Sc."
+        },
+        "students": {
+            "student1": {
+                "name": "Mostafa Mohamed",
+                "university": "Mechanical Engineering, South Valley University",
+                "topic": "Development of water filtration system using ceramic membrane"
+            },
+            "student2": {
+                "name": "Ahmed Ali",
+                "university": "",
+                "topic": "Evaluation of hybrid prototype for industrial wastewater treatment"
+            },
+            "student3": {
+                "name": "Saad Yassin",
+                "university": "",
+                "topic": "Development of solar heater for heating water"
+            },
+            "student4": {
+                "name": "Hassan Mubarak",
+                "university": "",
+                "topic": "Biodegradable Mg Battery for Powering Implantable Medical Devices"
+            },
+            "student5": {
+                "name": "Mostafa Mahmoud Sayed Ahmed",
+                "university": "Egypt-Japan University of Science and Technology (E-JUST)",
+                "topic": "Fully Eco-friendly Dual-layered Superhydrophobic/Hydrophilic Composite Membranes for DCMD System"
+            },
+            "student6": {
+                "name": "Ahmed Gamal",
+                "university": "",
+                "topic": "Design of Triboelectric Device Using Aluminum Foil as Electrode"
+            },
+            "student7": {
+                "name": "Hassan Abo EL-Hassan",
+                "university": "",
+                "topic": "Characteristics of Fabricated Nanofibers Membrane for Groundwater Filtration Applications"
+            },
+            "student8": {
+                "name": "Mahmoud Hamdy",
+                "university": "",
+                "topic": "Fabrication of Polysulfone Nanofiber Membrane with Characteristics Meets Water Purification Application"
+            },
+            "student9": {
+                "name": "Hussein Ali",
+                "university": "",
+                "topic": "Fabrication of composite polymeric/nanoparticles membrane for water desalination application"
+            },
+            "student10": {
+                "name": "Mostafa Mahmoud Sayed Ahmed",
+                "university": "Mechanical Engineering, Faculty of Energy, Aswan University",
+                "topic": "Tuning of biodegradation behavior of silk fibroin-based biopolymer as advanced tissue engineering scaffold"
+            },
+            "student11": {
+                "name": "Mustafa Ghazali",
+                "university": "Mechanical Engineering, South Valley University",
+                "topic": "Fabrication of Electrospinning Nanofibers for Tissue Engineering Applications"
+            },
+            "student12": {
+                "name": "Hanan Shahat",
+                "university": "",
+                "topic": "Electrospun superhydrophilic membrane for Under-oil wetted PVDF for gravitational oil/water flux separation"
+            },
+            "student13": {
+                "name": "Jarah Fares",
+                "university": "",
+                "topic": "Fabrication of Advanced Electrospun Nanofibrous Membranes for Photodegradation and Wastewater Treatment"
+            }
+        }
+    }
+}
