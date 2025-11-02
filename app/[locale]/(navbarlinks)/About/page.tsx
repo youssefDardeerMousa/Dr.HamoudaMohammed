@@ -1,11 +1,13 @@
 "use client"
-import React from 'react'
+import React, { useState } from 'react'
 import Image from 'next/image'
 import { useTranslations } from 'next-intl'
 import AcademicJourney from '../AcademicJourney/page'
 
 export default function About() {
     const t = useTranslations('About')
+    const [isHovered, setIsHovered] = useState(false)
+
     return (
         <section className="relative min-h-[80vh] text-center mt-5 py-16">
             {/* background subtle */}
@@ -26,10 +28,15 @@ export default function About() {
 
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-stretch" data-aos="fade-up" data-aos-delay="100">
                     <div className="lg:col-span-5 mx-auto lg:mx-0 h-full w-full">
-                        <div className="group relative w-full h-[28rem] md:h-[32rem] lg:h-full rounded-2xl overflow-hidden ring-2 ring-white/20 shadow-2xl">
+                        <div
+                            className="group relative w-full h-[28rem] md:h-[32rem] lg:h-full rounded-2xl overflow-hidden ring-2 ring-white/20 shadow-2xl cursor-pointer"
+                            onMouseEnter={() => setIsHovered(true)}
+                            onMouseLeave={() => setIsHovered(false)}
+                            onTouchStart={() => setIsHovered(true)}
+                        >
                             <Image src="/37854371_2241674132731239_7282903269901336576_n.jpg" alt="Hamouda M Mousa" fill className="object-cover" priority />
                             {/* curtain overlay */}
-                            <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/50 to-black/60 translate-y-[-100%] group-hover:translate-y-0 transition-transform duration-500 ease-out flex items-center justify-center">
+                            <div className={`absolute inset-0 bg-gradient-to-b from-black/60 via-black/50 to-black/60 transition-transform duration-500 ease-out flex items-center justify-center ${isHovered ? 'translate-y-0' : 'translate-y-[-100%]'}`}>
                                 <div className="px-4 text-center">
                                     <p className="text-xl md:text-2xl font-semibold text-white">{t('title')}</p>
                                     <p className="text-sm md:text-base text-white/80 mt-1">{t('subtitle')}</p>
