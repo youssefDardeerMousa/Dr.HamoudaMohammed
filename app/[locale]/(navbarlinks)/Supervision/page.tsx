@@ -48,7 +48,7 @@ export default function Supervision() {
     return (
         <section className="relative min-h-screen py-16">
             {/* Background layers with geometric shapes */}
-            <div className="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-b from-[#0b1020]/40 via-[#0b1020]/20 to-transparent" />
+            <div className="pointer-events-none absolute inset-0 -z-10 bg-[#0b1020] bg-gradient-to-b from-[#0b1020]/40 via-[#0b1020]/20 to-transparent" />
             <div className="pointer-events-none absolute inset-0 -z-10">
                 {/* Geometric shapes */}
                 <div className="absolute top-20 left-10 w-32 h-32 border-2 border-cyan-400/20 rotate-45" aria-hidden />

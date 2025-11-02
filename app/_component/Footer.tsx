@@ -5,7 +5,7 @@ import { useTranslations } from 'next-intl'
 export default function Footer() {
     const t = useTranslations('Footer')
     return (
-        <footer className="relative border-t border-white/10 bg-gradient-to-b from-transparent to-[#0b1020]/40 backdrop-blur-sm text-center">
+        <footer className="relative border-t border-white/10 bg-[#0b1020] bg-gradient-to-b from-transparent to-[#0b1020]/40 backdrop-blur-sm text-center">
             {/* Decorative top border */}
             <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-cyan-400/50 to-transparent" />
 

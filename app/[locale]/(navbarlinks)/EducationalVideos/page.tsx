@@ -7,7 +7,7 @@ export default function EducationalVideos() {
     return (
         <section className="relative min-h-[80vh] py-16">
             {/* background layers */}
-            <div className="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-b from-[#0b1020]/40 via-[#0b1020]/20 to-transparent" />
+            <div className="pointer-events-none absolute inset-0 -z-10 bg-[#0b1020] bg-gradient-to-b from-[#0b1020]/40 via-[#0b1020]/20 to-transparent" />
             <div className="pointer-events-none absolute inset-0 -z-10">
                 <div className="absolute top-10 left-10 w-40 h-40 rounded-full bg-cyan-400/10 blur-3xl" aria-hidden />
                 <div className="absolute bottom-10 right-16 w-56 h-56 rounded-full bg-fuchsia-400/10 blur-3xl" aria-hidden />

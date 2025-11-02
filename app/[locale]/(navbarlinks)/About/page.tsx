@@ -11,7 +11,7 @@ export default function About() {
     return (
         <section className="relative min-h-[80vh] text-center mt-5 py-16">
             {/* background subtle */}
-            <div className="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-b from-[#0b1020]/40 via-[#0b1020]/20 to-transparent" />
+            <div className="pointer-events-none absolute inset-0 -z-10 bg-[#0b1020] bg-gradient-to-b from-[#0b1020]/40 via-[#0b1020]/20 to-transparent" />
 
             {/* geometric shapes */}
             <div className="pointer-events-none absolute inset-0 -z-10">
