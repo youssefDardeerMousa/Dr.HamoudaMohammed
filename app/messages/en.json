@@ -1,6 +1,6 @@
 {
     "Navbar": {
-        "title": "Dr / Hamouda Mohammed",
+        "title": "Dr. Hamouda M Mousa",
         "home": "Home",
         "about": "About",
         "scholarlyAchievements": "Scholarly Achievements",
@@ -36,7 +36,7 @@
         },
         "copyright": {
             "year": "© {year}",
-            "name": "Dr / Hamouda Mohammed",
+            "name": "Dr. Hamouda M Mousa",
             "rights": "All rights reserved. Built with passion for academic excellence."
         }
     },
@@ -50,7 +50,7 @@
         }
     },
     "About": {
-        "title": "Dr / Hamouda Mohammed",
+        "title": "Dr. Hamouda M Mousa",
         "subtitle": "Mechanical Engineer",
         "description": "Experienced Associate Professor and dean of Faculty of Technological Industry and Energy, Tiabah Technological University. I have experience in Materials Science, Medical Devices, Biomaterials, Research, and Design. Strong education professional with a Fulbright Visiting Scholar focused in Bioengineering and Biomedical Engineering from Texas A&M University and MIT. Awarded SVU encourage award 2017 in engineering and Egyptian state Encourage award for engineering science for the year 2020.",
         "position": "Associate Professor & Dean of Faculty of Technological Industry and Energy",
