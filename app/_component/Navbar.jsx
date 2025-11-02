@@ -337,10 +337,10 @@ export default function Navbar() {
                                         </svg>
                                     </summary>
                                     <div className="px-2 pb-2">
-                                        <Link href="#videos" className="block px-3 py-2 text-sm text-white/90 hover:text-white hover:bg-white/10 rounded transition" onClick={() => setOpen(false)}>
+                                        <Link href="/EducationalVideos" className="block px-3 py-2 text-sm text-white/90 hover:text-white hover:bg-white/10 rounded transition" onClick={() => setOpen(false)}>
                                             {t('educationalVideos')}
                                         </Link>
-                                        <Link href="#supervision" className="mt-1 block px-3 py-2 text-sm text-white/90 hover:text-white hover:bg-white/10 rounded transition" onClick={() => setOpen(false)}>
+                                        <Link href="/Supervision" className="mt-1 block px-3 py-2 text-sm text-white/90 hover:text-white hover:bg-white/10 rounded transition" onClick={() => setOpen(false)}>
                                             {t('supervision')}
                                         </Link>
                                     </div>
